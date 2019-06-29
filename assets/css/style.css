@@ -216,28 +216,28 @@ input[type=submit] {
   border: 0 none;
 }
 
-/* media query for 980px and below */
+/* media query width for 980px and below */
 @media screen and (max-width: 980px) {
   body {
-    background-color: #333;
+    background: url("../images/inflicted.png");
   }
 
   
 }
 
-/* media query for 768px and below */
+/* media query width for 768px and below */
 @media screen and (max-width: 768px) {
   body {
-    background-color: #333;
+    background: url("../images/darkness.png");
   }
 
   
 }
 
-/* media query for 640px and below */
+/* media query widthfor 640px and below */
 @media screen and (max-width: 640px) {
   body {
-    background-color: #333;
+    background: url("../images/sakura.png");
   }
 
   #masthead {
